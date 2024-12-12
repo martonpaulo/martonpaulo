@@ -6,7 +6,7 @@ I am a Software Engineer and aspiring full-stack programmer
 <br />
 currently enrolled in Full Stack Web Development at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx) (Brazil) 🇧🇷🏖️
 
-Click **[here](https://www.linkedin.com/in/martonpaulo/)** to access my LinkedIn profile!
+Click **[here](https://www.martonpaulo.com/)** to access my website!
 
 On my GitHub, you can access some of the project repositories
 <br />
