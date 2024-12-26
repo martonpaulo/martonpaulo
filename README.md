@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF of a man typing on a cat as if it were a keyboard" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTR1d3NkYTc2YWhudWE1NmFueDZoeGR5eXpxaHFlNmYzMzMwdjdreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44Ql1aJFFtdExHEc/giphy.webp" width="400" />
 
-I'm Marton, a **Front-End Developer** with almost **5 years of experience** in crafting engaging web interfaces. I hold a degree in Analysis and Systems Development from Universidade Católica de Brasília 🇧🇷
+I'm Marton, a **Front-End Developer** with almost **5 years of experience** in crafting engaging web interfaces. I hold a degree in Analysis and Systems Development.
 
 I didn't choose front-end... front-end chose me! 🎯 It's like I was born for this — there's no turning back. I thrive on pixel perfection, CSS magic, and the art of code refactoring, ensuring visually appealing and highly functional interfaces.
 
