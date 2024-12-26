@@ -8,8 +8,6 @@ I didn't choose front-end... front-end chose me! 🎯 It's like I was born for t
 
 Currently, I'm advancing my skills in **Full Stack Development** at Pontifícia Universidade Católica de Minas Gerais 🇧🇷
 
-Here on my GitHub, you'll find a collection of my project repositories, showcasing some of my work and coding journey. Feel free to explore and share your thoughts!
-
 ### My Hobbies
 
 - Exploring new places and adventures 🏕️
