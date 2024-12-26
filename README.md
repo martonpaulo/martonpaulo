@@ -1,22 +1,26 @@
-# Glad to see you here!
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<img align="right" alt="GIF of a monkey using a computer" src="https://media.giphy.com/media/ujvhLZGsTajgQ/giphy.gif" width="400" />
+<img align="right" alt="GIF of a man typing on a cat as if it were a keyboard" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTR1d3NkYTc2YWhudWE1NmFueDZoeGR5eXpxaHFlNmYzMzMwdjdreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44Ql1aJFFtdExHEc/giphy.webp" width="400" />
 
-I am a Software Engineer and aspiring full-stack programmer
-<br />
-currently enrolled in Full Stack Web Development at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx) (Brazil) 🇧🇷🏖️
+I'm Marton, a **Front-End Developer** with almost **5 years of experience** in crafting engaging web interfaces. I hold a degree in Analysis and Systems Development from Universidade Católica de Brasília 🇧🇷
 
-Click **[here](https://www.martonpaulo.com/)** to access my website!
+I didn't choose front-end... front-end chose me! 🎯 It's like I was born for this — there's no turning back. I thrive on pixel perfection, CSS magic, and the art of code refactoring, ensuring visually appealing and highly functional interfaces.
 
-On my GitHub, you can access some of the project repositories
-<br />
-I have created and made the code publicly available.
+Currently, I'm advancing my skills in **Full Stack Development** at Pontifícia Universidade Católica de Minas Gerais 🇧🇷
 
-### My hobbies include
+Here on my GitHub, you'll find a collection of my project repositories, showcasing some of my work and coding journey. Feel free to explore and share your thoughts!
 
-- adventuring through traveling 🏕️
-- learning and practicing new languages 🗣️
-- engaging in sports 🚴‍♂️
+### My Hobbies
+
+- Exploring new places and adventures 🏕️
+- Learning and practicing new languages 🗣️
+- Staying active with sports 🚴‍♂️
+
+### Let's Connect
+
+- 🌐 **Website:** [www.martonpaulo.com](http://www.martonpaulo.com)
+- ✉️ **Email:** [info@martonpaulo.com](mailto:info@martonpaulo.com)
+
 
 ### Preferred Stack and Languages
 
