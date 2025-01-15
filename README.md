@@ -16,7 +16,7 @@ Currently, I'm advancing my skills in **Full Stack Development** at Pontifícia 
 
 ### Let's Connect
 
-- 🌐 **Website:** [www.martonpaulo.com](http://www.martonpaulo.com)
+- 🌐 **Website:** [wwww.martonpaulo.com](https://bit.ly/site_marton_github)
 - ✉️ **Email:** [info@martonpaulo.com](mailto:info@martonpaulo.com)
 
 
