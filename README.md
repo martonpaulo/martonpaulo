@@ -14,11 +14,6 @@ Currently, I'm advancing my skills in **Full Stack Development** at Pontifícia 
 - Learning and practicing new languages 🗣️
 - Staying active with sports 🚴‍♂️
 
-### Let's Connect
-
-- 🌐 **Website:** [wwww.martonpaulo.com](https://bit.ly/site_marton_github)
-- ✉️ **Email:** [info@martonpaulo.com](mailto:info@martonpaulo.com)
-
 
 ### Preferred Stack and Languages
 
