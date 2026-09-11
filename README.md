@@ -12,7 +12,7 @@ I have a degree in Systems Analysis and Development and a specialization in Full
 
 ### What I'm building
 
-Small, free, local-first tools for the web, the Mac and the iPhone, where your data stays on your machine. The current list lives at [martonpaulo.com](https://martonpaulo.com).
+Free, local-first software for the web, the Mac and the iPhone, where your data stays on your machine. The current list lives at [martonpaulo.com](https://martonpaulo.com).
 
 ### Off the keyboard
 
