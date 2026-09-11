@@ -1,0 +1,44 @@
+name: Languages card
+
+# Redraws assets/languages-*.svg from the GitHub API. Weekly is plenty: the
+# shares move slowly, and a stale week costs nothing.
+on:
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/scripts/languages.mjs
+      - .github/workflows/languages.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: languages
+  cancel-in-progress: true
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - name: Draw the card
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node .github/scripts/languages.mjs
+      - name: Commit if it changed
+        run: |
+          git add assets
+          if git diff --cached --quiet; then
+            echo "Card unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: redraw the languages card"
+          git push
