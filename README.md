@@ -2,21 +2,17 @@
 
 <img align="right" alt="GIF of a man typing on a cat as if it were a keyboard" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTR1d3NkYTc2YWhudWE1NmFueDZoeGR5eXpxaHFlNmYzMzMwdjdreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44Ql1aJFFtdExHEc/giphy.webp" width="400" />
 
-I'm Marton, a **senior full-stack developer** and a proud **vibe coder** 🤖, Brazilian and living in Spain.
+I'm Marton, a **senior full-stack developer** and a proud **vibe coder** 🤖
 
 I've been shipping for the web since 2019: React, Next.js and TypeScript up front, Node.js, Java and Spring Boot behind the API. These days most of my code is written by AI agents I direct. I describe the change, they draft it, and I review, test and ship it. The craft didn't go away, it moved to the guardrails. 🛡️
 
 I didn't choose front-end... front-end chose me! 🎯 Pixel perfection and accessibility are still where I care most, and lately that includes native apps for the Mac and iPhone in Swift.
 
-I have a degree in Systems Analysis and Development and a specialization in Full Stack Development from PUC Minas 🇧🇷
+I have a degree in Systems Analysis and Development and a specialization in Full Stack Development from PUC Minas 🎓
 
 ### What I'm building
 
-- 🪟 [WindowHop](https://windowhop.martonpaulo.com), [Mailbell](https://mailbell.martonpaulo.com) and [Meantime](https://meantime.martonpaulo.com): native macOS utilities for the menu bar
-- 🧮 [Tabelo](https://tabelo.martonpaulo.com), [Issues Graph](https://issues.martonpaulo.com) and [AtlasTint](https://atlastint.martonpaulo.com): browser tools that keep your data on your machine
-- 🔤 [Moon Uniform](https://moon.martonpaulo.com): an open typeface for the Moon tactile alphabet
-
-Everything else is at [martonpaulo.com](https://martonpaulo.com).
+Small, free, local-first tools for the web, the Mac and the iPhone, where your data stays on your machine. The current list lives at [martonpaulo.com](https://martonpaulo.com).
 
 ### Off the keyboard
 
@@ -36,6 +32,7 @@ Everything else is at [martonpaulo.com](https://martonpaulo.com).
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/swiftui-%230D96F6.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/claude%20code-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![Codex / ChatGPT](https://img.shields.io/badge/codex%20%2F%20chatgpt-000000.svg?style=for-the-badge)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
