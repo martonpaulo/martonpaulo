@@ -6,9 +6,9 @@ I'm Marton, a **senior full-stack developer** and a proud **vibe coder** 🤖
 
 I've been shipping for the web since 2019: React, Next.js and TypeScript up front, Node.js, Java and Spring Boot behind the API. These days most of my code is written by AI agents I direct. I describe the change, they draft it, and I review, test and ship it. The craft didn't go away, it moved to the guardrails. 🛡️
 
-I didn't choose front-end... front-end chose me! 🎯 Pixel perfection and accessibility are still where I care most, and lately that includes native apps for the Mac and iPhone in Swift.
+At the beginning, I didn't choose front-end... front-end chose me! 🎯 Pixel perfection and accessibility are still where I care most, and lately that includes native apps for the Mac and iPhone in Swift.
 
-I have a degree in Systems Analysis and Development and a specialization in Full Stack Development from PUC Minas 🎓
+I have a degree in Systems Analysis and Development and a specialization in Full Stack Development 🎓
 
 ### What I'm building
 
@@ -16,9 +16,9 @@ Small, free, local-first tools for the web, the Mac and the iPhone, where your d
 
 ### Off the keyboard
 
-- Languages and cultures 🗣️: I speak Portuguese, English, Spanish and Esperanto, and I've studied Chinese, French, Russian and Libras
-- Anything uncommon enough to make me curious 🔭
-- Tinkering with my tools: Hammerspoon, Raycast and a Mac that automates itself ⚙️
+- 🗣️ Languages: I speak Portuguese, English, Spanish and Esperanto, and I've studied Chinese, French, Russian and Brazilian Sign Language
+- 🔭 Anything uncommon enough to make me curious 
+- ⚙️ Tinkering with my tools: Hammerspoon, Raycast and a Mac that automates itself
 
 ### Stack
 
