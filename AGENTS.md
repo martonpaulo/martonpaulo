@@ -10,7 +10,7 @@
 - Repository: `martonpaulo/martonpaulo` (public)
 - Public identifiers: The GitHub profile `github.com/martonpaulo`; GitHub shows this repository's `README.md` there.
 - Landing page: None. The profile README is the page; the projects live at `martonpaulo.com`.
-- License: `None`; the choice waits on the owner (Inbox D2, 2026-11-27).
+- License: `None`, by the owner's choice (2026-11-27): the profile text is personal, so the repository grants no reuse; there is no `LICENSE` file.
 - Copyright: 2026 Marton Paulo
 - Development language: English.
 - Product copy: English only, not localized: the profile text in `README.md` and the languages card.
@@ -18,11 +18,14 @@
 - Commit policy: Commit each coherent task automatically once it is complete and `make validate` passes.
 - Push policy: Push validated commits to `origin/main` through `land.py finish`.
 - Product versioning: Unversioned. Git history is the record; there are no releases or tags.
-- Merge policy: merge commits, so every branch commit reaches `main`; GitHub still offers squash and rebase, and turning them off waits on the owner (Inbox D1, 2026-11-27).
+- Merge policy: merge commits, so every branch commit reaches `main`; GitHub offers no squash or rebase merge (2026-11-27).
 - Commit subject: a commit made for an issue ends with `(#<issue number>)`, never the pull request's.
-- Delete branches after merge: disabled
+- Delete branches after merge: enabled
 - Release, signing, and secret-storage policy: Not applicable. Nothing is packaged, signed or released; the workflow uses only the job's own `github.token`.
+- Skills baseline revision: `476ee0c94a421bd1068c19dbf66ae4d020ec429c`
+- Skills baseline applied: `2026-11-27`
 - Skills baseline divergence `host-fixed-repository-name` at `476ee0c94a421bd1068c19dbf66ae4d020ec429c`: the slug is `martonpaulo`, not a name of the project's own, because GitHub shows a profile README only from the repository named as the account (Workbench `docs/repositories.md`, where the owner records the names GitHub fixes).
+- Skills baseline divergence `workflow-names` at `476ee0c94a421bd1068c19dbf66ae4d020ec429c`: `languages.yml` (`Languages card`) stays a third workflow, because it is neither Validate nor Deploy: each Monday it reads the GitHub API and commits the redrawn languages card to `main`, so it needs a schedule and `contents: write`, which Validate must not have (owner decision, 2026-11-27).
 
 Change an identifier or policy recorded above only through an explicit task describing the migration and its effects.
 
