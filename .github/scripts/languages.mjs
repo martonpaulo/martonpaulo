@@ -17,6 +17,8 @@ const SHOWN = 6;
 // what it is written in. The old card hid the first four for the same reason.
 const IGNORED = new Set(["HTML", "CSS", "SCSS", "Jupyter Notebook", "Makefile", "Shell"]);
 
+// shortcut: one page of 100 repositories and 20 languages each, no pagination; page through
+// `pageInfo` once the account has more than 100 public repositories (34 on 2026-11-27).
 const query = `query($login: String!) {
   user(login: $login) {
     repositories(first: 100, ownerAffiliations: OWNER, isFork: false, privacy: PUBLIC) {

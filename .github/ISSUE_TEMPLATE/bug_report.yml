@@ -1,0 +1,28 @@
+name: Bug report
+description: Report something on the GitHub profile that does not show the way it should.
+title: "bug: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A broken image, a wrong number on the languages card, a link that does not open.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect instead?
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: Where did you see it?
+      description: The browser or app, and whether GitHub showed its light or dark theme.
+      placeholder: Safari 26 on macOS 26, dark theme
+    validations:
+      required: true

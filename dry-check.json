@@ -1,0 +1,33 @@
+{
+ "magicValues": {
+  "folders": [],
+  "exclude": [
+   "scripts/dry_check.py",
+   "scripts/issue_links.py",
+   "scripts/text_check.py",
+   "scripts/skd/**"
+  ],
+  "counts": {
+   ".github/scripts/languages.mjs": {
+    "colour": 2,
+    "number": 1,
+    "url": 1
+   }
+  }
+ },
+ "duplicates": {
+  "depth": 1,
+  "exclude": [
+   "scripts/skd/**"
+  ],
+  "counts": {}
+ },
+ "documents": {
+  "files": [
+   "*.md",
+   "docs/**/*.md"
+  ],
+  "exclude": [],
+  "repeated": {}
+ }
+}

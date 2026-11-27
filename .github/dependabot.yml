@@ -1,0 +1,14 @@
+# Fleet Dependabot configuration (bench-project-standards references/fleet-conventions.md).
+# The repository has no package manifest, so only its workflows' actions are updated.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+      time: "06:17"
+      timezone: UTC
+    cooldown:
+      default-days: 3
+    open-pull-requests-limit: 5
