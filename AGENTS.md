@@ -17,6 +17,7 @@
 - Branch policy: main only. Work goes straight to `main`; the weekly `Languages card` workflow commits the redrawn card there too.
 - Commit policy: Commit each coherent task automatically once it is complete and `make validate` passes.
 - Push policy: Push validated commits to `origin/main` through `land.py finish`. A cloud session pushes `main` too, only for a `runs: cloud` issue whose gates all ran there (owner, 2026-11-27). Cloud setup command: `bash scripts/cloud-setup.sh`.
+- Cloud hand-off: on (owner, 2026-11-28): a cloud session also delivers the `[cloud]` Tasks of a split issue, on `cloud/<issue>` when it cannot push `main`.
 - Product versioning: Unversioned. Git history is the record; there are no releases or tags.
 - Merge policy: merge commits, so every branch commit reaches `main`; GitHub offers no squash or rebase merge (2026-11-27).
 - Commit subject: a commit made for an issue ends with `(#<issue number>)`, never the pull request's.
